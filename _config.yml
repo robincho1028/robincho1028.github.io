@@ -12,7 +12,7 @@ url: "https://robincho1028.github.io/" # the base hostname & protocol for your s
 social:
   name: Robin
   links:
-    - https://www.facebook.com/ben.balter
+    - https://www.facebook.com/allthatmusiq
     - https://www.linkedin.com/in/BenBalter
     - https://plus.google.com/+BenBalter
 
@@ -27,11 +27,11 @@ tagline: >
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
-email: robincho1028@gmail.com # email for form submission
+email: robin.cho@allthatmusiq.com # email for form submission
 
 twitter_username: thinemineours # replace with your_twitter_username or comment to remove link from footer
-github_username:  janczizikow # replace with your_github_username or comment to remove link from footer
-instagram_username: shanlongjj # replace with your_instagram_username or comment to remove link from footer
+github_username:  robincho1028 # replace with your_github_username or comment to remove link from footer
+instagram_username: allthatmusiq # replace with your_instagram_username or comment to remove link from footer
 
 disqus:
   shortname: robin # to enable comments replace with your_disqus_shortname
