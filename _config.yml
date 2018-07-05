@@ -10,7 +10,7 @@ url: "https://robincho1028.github.io/" # the base hostname & protocol for your s
 
 # SEO PLUGIN
 social:
-  name: Robin
+  name: Robin H. Cho
   links:
     - https://www.facebook.com/allthatmusiq
     - https://www.linkedin.com/in/BenBalter
@@ -18,8 +18,9 @@ social:
 
 # THEME SETTINGS
 navigation: # Navigation links
-  - {name: 'Home', link: '/'}
+  - {name: 'Main', link: '/'}
   - {name: 'About', link: '/about'}
+  - {name: 'Work', link: '/contact'}
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
