@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-title: Robin H. Cho # your site title
+title: ATM # your site title
 author: Robin H. Cho  # You :P
 description: > # Meta description of Homepage
   Write an awesome description for your new site here. You can edit this
@@ -10,7 +10,7 @@ url: "https://allthatmusiq.com" # the base hostname & protocol for your site, e.
 
 # SEO PLUGIN
 social:
-  name: Robin H. Cho
+  name: ATM
   links:
     - https://www.facebook.com/allthatmusiq
     - https://www.linkedin.com/in/robinhyerincho
