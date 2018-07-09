@@ -17,7 +17,7 @@ social:
 navigation: # Navigation links
   - {name: 'Main', link: '/'}
   - {name: 'About', link: '/about'}
-  - {name: 'Work', link: '/contact'}
+  - {name: 'Work', link: '/'}
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
