@@ -2,9 +2,7 @@
 title: ATM # your site title
 author: Robin H. Cho  # You :P
 description: > # Meta description of Homepage
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  We make a better tomorrow within our music.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://allthatmusiq.com" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -23,8 +21,7 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  Composer &amp; Sound Designer &amp; Sound Engineer
-
+  Music Composer Team For Visual Media
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
 email: robin.cho@allthatmusiq.com # email for form submission
