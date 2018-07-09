@@ -4,9 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-It would be NICE to hear form you! 
-
-Check the form below to see it in action!
+It would be great to hear from you.
 
 Fill in the form or [email me](mailto:{{site.email}}) to discuss your next project.
 
