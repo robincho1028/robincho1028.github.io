@@ -4,10 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Sleek is a modern Jekyll theme focused on speed performance & SEO best practices. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/) or simply read the guide on how to [get started](/getting-started)
-
-You can find the source code for the Jekyll new theme at:
-[sleek](https://github.com/janczizikow/sleek)
-
-You can find the source code for Jekyll at
-[jekyll](https://github.com/jekyll/jekyll)
+Allthatmusiq is music composer team for television, commercials, web contents, and any kind of visual media. 
+We can work as a team or as a person for clients from the first step of the project all the way to the final delivery of the one.  
+Also,  Allthatmusiq has extensive experience working in music for any individual aspects of contents, We can provide a fitting service for your quality.   
+Having something great, It's a strength we have. 
+whether you are beginning a project, or need some fresh Ideas, We will always be listening from you to discuss a new piece what we will make together so don't hesitate to call us or shoot an email to learn more! 
